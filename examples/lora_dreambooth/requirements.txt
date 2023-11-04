@@ -3,7 +3,7 @@ accelerate
 evaluate
 tqdm
 datasets
-diffusers
+diffusers=0.20
 Pillow
 torchvision
 huggingface_hub
